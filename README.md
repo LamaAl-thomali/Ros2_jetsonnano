@@ -8,14 +8,19 @@ $ cd installROS
 -$
 ./installROS
 -h
+
+
 #
 Default workspace is ~/catkin_ws
+#
 $./setupCatkinWorkspace.sh
+#
 $ gedit~/.bashrc
-تطلع لي صفحه 
+تطلع لي صفحه# 
 §source~/.bashrc
+#
 $ roscore
-
+#
 تفتح لي صفحه احط فيها التالي 
-
+#
 $ roscore
